@@ -1,0 +1,5 @@
+# ignore emacs automatic files
+*~
+*#
+.#*
+__pycache__
